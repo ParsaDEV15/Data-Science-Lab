@@ -1,4 +1,4 @@
-# 🧠 Machine Learning & Deep Learning Portfolio
+# 🧠 Data-Science-Lab
 
 This repository is a **professional portfolio** containing selected **Machine Learning, Deep Learning, and Data Analysis projects**.  
 Each project demonstrates applied problem-solving, model development, and evaluation on real-world datasets.
