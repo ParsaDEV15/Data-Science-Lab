@@ -1,2 +1,64 @@
-# Data-Science-Lab
-Machine Learning, Deep Learning, and Data Analysis projects.
+# 🧠 Machine Learning & Deep Learning Portfolio
+
+This repository is a **professional portfolio** containing selected **Machine Learning, Deep Learning, and Data Analysis projects**.  
+Each project demonstrates applied problem-solving, model development, and evaluation on real-world datasets.
+
+---
+
+## 📂 Projects Overview
+
+### 🔹 NewsShield: Fake News Detection with Deep Learning
+**Category:** Deep Learning (NLP)
+
+A deep learning–based system for detecting fake news articles from textual data.
+
+**Key Highlights:**
+- Text preprocessing using nltk and regex  
+- Deep neural network with **pytorch** for classification  
+- Model evaluation using **F1-Macro** 
+
+**Final Result:**
+- **F1-Macro:** 97%
+
+📓 **Notebook**
+```
+NewsShield\fake_news_detector_dl.ipynb
+```
+
+---
+
+### 🔹 ChurnSense: Customer Churn Prediction with Machine Learning
+**Category:** Machine Learning (Classification)
+
+A machine learning model designed to predict customer churn based on behavioral and demographic data.
+
+**Key Highlights:**
+- Data preprocessing and feature engineering  
+- Using **SVM** machine learning model for churn prediction  
+- Model evaluation using **F1-Macro** and **ROC-AUC**
+
+**Final Result:**
+- **F1-Macro:** 71%
+- **ROC-AUC:** 75%
+
+
+📓 **Notebook**
+```
+ChurnSense\churnsense_customer_churn_ml.ipynb
+```
+
+---
+
+## 🛠 Technologies Used
+
+- Python  
+- NumPy, Pandas  
+- Scikit-learn  
+- TensorFlow / Keras  
+- PyTorch  
+- Matplotlib, Seaborn  
+- Jupyter Notebook  
+
+---
+
+⭐ If you find this repository useful, feel free to give it a star.
