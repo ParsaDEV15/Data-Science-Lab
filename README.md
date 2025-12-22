@@ -49,6 +49,27 @@ ChurnSense\churnsense_customer_churn_ml.ipynb
 
 ---
 
+### 🚨 FraudGuard: Transaction Fraud Detection
+**Category:** Data Science / Fraud Analytics
+
+A machine learning model focused on detecting fraudulent transactions using data analysis and predictive techniques.
+
+**Key Highlights:**
+- Data preprocessing and exploratory analysis
+- Handling class imbalance in fraud datasets
+- Using **Logistic Regression** for fraud detection
+- **Decision threshold tuning** to control the trade-off between precision and recall
+- Model evaluation using **F1-Score**
+
+**Final Result:**
+- Fraud-class F1 Score: 76%
+
+📓 **Notebook**
+```
+FraudGuard\credit_card_fraud_detection_ml.ipynb
+```
+---
+
 ## 🛠 Technologies Used
 
 - Python  
@@ -60,5 +81,6 @@ ChurnSense\churnsense_customer_churn_ml.ipynb
 - Jupyter Notebook  
 
 ---
+
 
 ⭐ If you find this repository useful, feel free to give it a star.
