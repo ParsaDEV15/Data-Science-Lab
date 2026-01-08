@@ -50,7 +50,7 @@ ChurnSense\churnsense_customer_churn_ml.ipynb
 ---
 
 ### 🚨 FraudGuard: Transaction Fraud Detection
-**Category:** Data Science / Fraud Analytics
+**Category:** Data Science / Machine Learning
 
 A machine learning model focused on detecting fraudulent transactions using data analysis and predictive techniques.
 
@@ -68,6 +68,34 @@ A machine learning model focused on detecting fraudulent transactions using data
 ```
 FraudGuard\credit_card_fraud_detection_ml.ipynb
 ```
+
+---
+
+### ⚡ PowerNova: Wind & Solar Energy Production Analysis
+**Category:** Data Science / Deep Learning / Energy Analytics
+
+A data science and deep learning project focused on analyzing and modeling **wind and solar energy production** over time using real-world energy data.
+
+**Research Questions:**
+1. Which energy source (wind or solar) produced more total energy over the observed period?
+2. During which season was the highest amount of energy produced overall?
+3. Which month recorded the highest energy production, and does this differ between wind and solar?
+4. Are there any anomalies or unusual spikes/drops in energy production?
+
+**Key Highlights:**
+- Seasonal and monthly trend analysis for wind and solar energy
+- Detection of anomalies and unusual production patterns
+- Training a **Deep Learning model using Keras** for energy production prediction
+- Model evaluation using regression-based performance metrics
+
+**Final Result:**
+- Mean Absolute Error: ~2790.64
+
+📓 **Notebook**
+```
+PowerNova\wind_solar_energy_analysis.ipynb
+```
+
 ---
 
 ## 🛠 Technologies Used
