@@ -98,6 +98,33 @@ PowerNova\wind_solar_energy_analysis.ipynb
 
 ---
 
+### 💼 HiringMarket: Data Scientist Job Market Analysis (2025)
+**Category:** Data Science / Analytics / Labor Market
+
+A data science project focused on analyzing the **2025 data science job market** using salary, company, and job-posting data to understand hiring trends and compensation patterns across Europe.
+
+**Research Questions:**
+1. How do salaries vary across different **seniority levels**?
+2. Is there a relationship between **company size or revenue** and salary offerings?
+3. What are the **top skills** requested across all job postings?
+4. How does **location** correlate with salary ranges?
+5. Which **industries** are hiring the most data scientists?
+6. Does **company ownership type** affect hiring patterns?
+
+**Key Highlights:**
+- Data cleaning and preprocessing of job and salary data
+- Salary analysis by seniority, company size, and location
+- Skill frequency analysis across job postings
+- Industry and ownership-type hiring trend analysis
+- Visual exploration of salary and hiring distributions
+
+📓 **Notebook**
+```
+HiringMarket\2025_ds_job_posts_analysis.ipynb
+```
+
+---
+
 ## 🛠 Technologies Used
 
 - Python  
@@ -105,7 +132,7 @@ PowerNova\wind_solar_energy_analysis.ipynb
 - Scikit-learn  
 - TensorFlow / Keras  
 - PyTorch  
-- Matplotlib, Seaborn  
+- Matplotlib, Seaborn, plotly  
 - Jupyter Notebook  
 
 ---
