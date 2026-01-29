@@ -101,7 +101,7 @@ PowerNova\wind_solar_energy_analysis.ipynb
 ### 💼 HiringMarket: Data Scientist Job Market Analysis (2025)
 **Category:** Data Science / Analytics / Labor Market
 
-A data science project focused on analyzing the **2025 data science job market** using salary, company, and job-posting data to understand hiring trends and compensation patterns across Europe.
+A data science project focused on analyzing the **2025 data science job market** using salary, company, and job-posting data to understand hiring trends and compensation patterns across global markets.
 
 **Research Questions:**
 1. How do salaries vary across different **seniority levels**?
