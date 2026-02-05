@@ -125,6 +125,30 @@ HiringMarket\2025_ds_job_posts_analysis.ipynb
 
 ---
 
+### 🩺 HealthHorizons: Global Life Expectancy Analysis & Prediction
+**Category:** Data Science / Machine Learning (Regression)
+
+A data science project focused on analyzing the key **health, demographic, and lifestyle factors** that influence life expectancy across countries, combined with a predictive regression model.
+
+**Research Questions:**
+1. What is the impact of **immunization coverage** on life expectancy?
+2. How do **infant and adult mortality rates** affect life expectancy?
+3. Does life expectancy correlate positively or negatively with **lifestyle factors** such as diet, exercise, smoking, and alcohol consumption?
+4. Do **densely populated countries** tend to have lower life expectancy?
+5. Which selected predictors have the **strongest influence** on life expectancy?
+
+**Key Highlights:**
+- Data preprocessing and feature selection
+- Training a **Random Forest Regression** model for life expectancy prediction
+- Model evaluation using **RMSE** and **R² Score**
+- Model interpretability using **SHAP values** to identify influential predictors
+
+**Final Result:**
+- **RMSE:** 1.66  
+- **R² Score:** 0.97
+
+---
+
 ## 🛠 Technologies Used
 
 - Python  
@@ -132,8 +156,9 @@ HiringMarket\2025_ds_job_posts_analysis.ipynb
 - Scikit-learn  
 - TensorFlow / Keras  
 - PyTorch  
+- Shap
 - Matplotlib, Seaborn, plotly  
-- Jupyter Notebook  
+- Jupyter Notebook
 
 ---
 
