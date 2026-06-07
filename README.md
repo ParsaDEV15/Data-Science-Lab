@@ -32,19 +32,26 @@ NewsShield\fake_news_detector_dl.ipynb
 
 A machine learning model designed to predict customer churn based on behavioral and demographic data.
 
+**Research Questions:**
+1. Which type of Contract has the highest Churn, and why?  
+2. What is the relationship between tenure and churn?
+3. How much do the security services (OnlineSecurity, TechSupport) affect churn? 
+4. Which PaymentMethod has the highest churn?  
+5. How does being a SeniorCitizen influence churn?
+
 **Key Highlights:**
 - Data preprocessing and feature engineering  
-- Using **SVM** machine learning model for churn prediction  
+- Using **Xgboost** machine learning model for churn prediction  
 - Model evaluation using **F1-Macro** and **ROC-AUC**
 
 **Final Result:**
 - **F1-Macro:** 71%
-- **ROC-AUC:** 75%
+- **ROC-AUC:** 76%
 
 
 📓 **Notebook**
 ```
-ChurnSense\churnsense_customer_churn_ml.ipynb
+ChurnSense\customer_churn_ml.ipynb
 ```
 
 ---
@@ -146,6 +153,28 @@ A data science project focused on analyzing the key **health, demographic, and l
 **Final Result:**
 - **RMSE:** 1.66  
 - **R² Score:** 0.97
+
+---
+
+### 🛡️ VirusVanguard: Intelligent Malware Detection System
+**Category:** Cybersecurity / Machine Learning / Anomaly Detection
+
+A machine learning-driven project focused on identifying malicious software (malware) from benign files. The system leverages behavioral and static features to classify files, ensuring high precision and recall in detecting security threats.
+
+**Key Highlights**:
+- Cleaning and preparing file features for analysis
+- Using XGBoost to identify and focus on the most impactful features
+- Benchmarking Logistic Regression, KNN, and XGBoost to select the best performer
+- Model evaluation using **F2 Score** and **Average Precision**
+
+📓 **Notebook**
+```
+VirusVanguard\malware_detection_ml.ipynb
+```
+
+**Final Result:**
+- **Average Precision Score:** 0.99%
+- **F2 Score:** 0.99%
 
 ---
 
